@@ -2,7 +2,7 @@
 
 Week 2 Targets
 
-1. [X]  
+1. [X]  Hello, SQLi
 1. [X]  
 1. [X]  
 1. [X]  
