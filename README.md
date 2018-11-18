@@ -2,11 +2,11 @@
 
 Week 2 Targets
 
-2.01. [X]  Hello, SQLi
-2.02. [X]  Painless
-2.03. [X]  Logic
-2.04. [X]  Censor
-2.05. [X]  Wild Ones 
+1. [X]  
+1. [X]  
+1. [X]  
+1. [X]  
+1. [X]  
 
 2.01:[X] Hello, SQLi
 2.02:[X] Painless
