@@ -2,13 +2,13 @@
 
 Week 2 Targets
 
-1. [X]  Required: Challenge 1 - HTTP Headers
-1. [X]  Required: Challenge 2 - Basic Routes 1
-1. [X]  Required: Challenge 3 - Query Params 1
-1. [X]  Required: Challenge 4 - Insecure Direct Object References (IDOR)
-1. [X]  Required: Challenge 5 - IDOR Challenge 1 
+2.01. [X]  Hello, SQLi
+2.02. [X]  Painless
+2.03. [X]  Logic
+2.04. [X]  Censor
+2.05. [X]  Wild Ones 
 
-2.01:[X}  Hello, SQLi
+2.01:[X] Hello, SQLi
 2.02:[X] Painless
 2.03:[X] Logic
 2.04:[X] Censor
