@@ -2,21 +2,11 @@
 
 Week 2 Targets
 
-00:[X] Hidden Employee
-01:[X] Peculiar Employees
-02:[X] Secret Number 1
-03:[X] Hidden Car
-04:[X] Hidden User
-05:[X] Odd List
-06:[X] The Riddler
-07:[X] Secret Number 2
-08:[X] Privilege Escalation
-09:[X] Secret Number 3
-10:[X] Key Players
-11:[X] Key Players 2
-12:[X] Bank Robbers
-13:[X] Bank Robbers 2
-14:[X] Bank Robbers 3
+1. [X]  Required: Challenge 1 - HTTP Headers
+1. [X]  Required: Challenge 2 - Basic Routes 1
+1. [X]  Required: Challenge 3 - Query Params 1
+1. [X]  Required: Challenge 4 - Insecure Direct Object References (IDOR)
+1. [X]  Required: Challenge 5 - IDOR Challenge 1 
 
 2.01:[X}  Hello, SQLi
 2.02:[X] Painless
